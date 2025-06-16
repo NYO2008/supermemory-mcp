@@ -10,6 +10,7 @@
         "skipLibCheck": true,
         "strict": true,
         "noEmit": false,
-        "types": ["@cloudflare/workers-types/2023-07-01"]
+        "types": ["@cloudflare/workers-types/2023-07-01"],
+        "outDir": "./dist"
     }
 }

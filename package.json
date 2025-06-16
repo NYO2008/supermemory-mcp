@@ -13,6 +13,7 @@
 	},
 	"dependencies": {
 		"@hono-rate-limiter/cloudflare": "^0.2.2",
+		"@modelcontextprotocol/sdk": "^1.12.3",
 		"@standard-community/standard-json": "^0.1.2",
 		"@supermemory/sdk": "^0.1.0-alpha.8",
 		"@total-typescript/tsconfig": "^1.0.4",
