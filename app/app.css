@@ -1,8 +1,8 @@
-@import "tailwindcss" source(".");
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
-@custom-variant dark (&:where(.dark, .dark *));
-
-@theme {
+:root {
     --font-sans: "Space Grotesk", ui-sans-serif, system-ui, sans-serif,
         "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
         "Noto Color Emoji";
@@ -10,6 +10,6 @@
 
 html,
 body {
-    @apply bg-gray-950;
+    background-color: #030712; /* Equivalent to bg-gray-950 */
     color-scheme: dark;
 }
