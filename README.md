@@ -1,6 +1,7 @@
 # Supermemory MCP - Universal Memory across LLMs
 
 [![Universal Memory MCP - Your memories, in every LLM you use. | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=954861&theme=neutral&period=daily&t=1749339045428)](https://www.producthunt.com/products/supermemory?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-universal-memory-mcp)
+[![smithery badge](https://smithery.ai/badge/@NYO2008/supermemory-mcp)](https://smithery.ai/server/@NYO2008/supermemory-mcp)
 
 Read a detailed blog about it - https://supermemory.ai/blog/the-ux-and-technicalities-of-awesome-mcps 
 
